@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 0,
+        "name":"kani",
+         "age":"21",
+         "email":"kanimozhi12062002@gmail.com",
+         "city" : "Tiruppur"
+    },
+    {
+        "id" : 1,
+        "name":"Sneha",
+         "age":"21",
+         "email":"snehakannan007@gmail.com",
+         "city" : "Theni"
+    },
+    {
+        "id" : 2,
+        "name":"Sugnathi",
+         "age":"21",
+         "email":"suagnsuga123@gmail.com",
+         "city" : "Tiruppur"
+    },
+    {
+        "id" : 3,
+        "name":"Ram",
+         "age":"1.5",
+         "email":"ramumasep26@gmail.com",
+         "city" : "India"
+    }
+]
